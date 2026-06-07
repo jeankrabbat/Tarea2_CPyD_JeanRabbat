@@ -80,19 +80,3 @@ El código detecta automáticamente dispositivos disponibles (GPU/TPU). Verifica
 import jax
 print(jax.devices())
 ```
-
-## Autor
-
-Jean Carlo Rabbat Sánchez
-
-## Fecha
-
-Junio 2026
-
-## Profesor
-
-Johansell Villalobos Cubillo
-
-## Materia
-
-Computación Paralela y Distribuida
