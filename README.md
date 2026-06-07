@@ -41,7 +41,7 @@ Para instalación local, asegúrate de tener JAX configurado correctamente para 
    - PARTE 3: Preparación de datos
    - PARTE 4: Definición de modelos
    - PARTE 5: Funciones de entrenamiento
-   - PARTE 7: Experimentos (Batch Size, Learning Rate, Network Size, Precisión)
+   - PARTE 6: Experimentos (Batch Size, Learning Rate, Network Size, Precisión)
 
 4. Los resultados se generarán automáticamente como tablas y gráficos
 
