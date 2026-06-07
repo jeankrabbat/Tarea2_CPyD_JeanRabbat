@@ -58,9 +58,13 @@ Tarea2_JeanRabbat/
     └── ...
 ```
 
+*Nota: Los gráficos (experimentos_completos.png) se generan automáticamente durante la ejecución del notebook.*
+
 ## Dataset
 
 El dataset utilizado es "Wonders of the World Image Classification" disponible en Kaggle.
+
+**Descarga:** https://www.kaggle.com/datasets/balabaskar/wonders-of-the-world-image-classification
 
 - **12 clases** (Maravillas del mundo)
 - **3,846 imágenes totales**
@@ -76,3 +80,19 @@ El código detecta automáticamente dispositivos disponibles (GPU/TPU). Verifica
 import jax
 print(jax.devices())
 ```
+
+## Autor
+
+Jean Carlo Rabbat Sánchez
+
+## Fecha
+
+Junio 2026
+
+## Profesor
+
+Johansell Villalobos Cubillo
+
+## Materia
+
+Computación Paralela y Distribuida
